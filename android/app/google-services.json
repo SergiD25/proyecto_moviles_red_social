@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "563944314344",
+    "project_id": "red-social-api",
+    "storage_bucket": "red-social-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563944314344:android:705ff89c49e3f1ae77c05d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_red_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563944314344-h794oq6tsiso9lruv68fnght622po89l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP61ARRMnxdVMXNswsA9hDbkmRJeHH6EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563944314344-h794oq6tsiso9lruv68fnght622po89l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563944314344-5s8g6vdc8fdlfhd0ackmq9kr41sfmas1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proyectoDeMoviles"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563944314344:android:3ed09eb4cc80365977c05d",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_de_moviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563944314344-h794oq6tsiso9lruv68fnght622po89l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP61ARRMnxdVMXNswsA9hDbkmRJeHH6EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563944314344-h794oq6tsiso9lruv68fnght622po89l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563944314344-5s8g6vdc8fdlfhd0ackmq9kr41sfmas1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proyectoDeMoviles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
